@@ -1,0 +1,218 @@
+.top{
+    display: flex;
+}
+.head{
+    color: rgb(83, 81, 81);
+}
+.side{
+    border-left: 1px solid rgb(148, 144, 144);
+    margin-left: 10px;
+    margin-top: 5px;
+    color: rgb(139, 134, 134);
+}
+.text{
+  margin: 30px 10px 10px 800px;
+}
+.nav{
+    display: flex;
+    margin-top: 20px;
+    padding: 10px;
+    color: rgb(120, 113, 113);
+    font-family:Bernard MT Condensed;
+    justify-content:space-between;
+    background-color: rgb(205, 198, 198);  
+}
+.face{
+    margin-top: 30px;
+    display: flex;
+}
+.left{
+    
+    margin: 10px;
+    width: 50%;
+    background-image: url(pic/hotel\ img.jpg);
+    background-repeat: round;
+}
+.right{
+    display: flex;
+    width:50%;
+    flex-wrap: wrap;
+    
+}
+.r1{
+    margin: 10px;
+}
+.middle{
+display: flex;
+margin-top: 30px;
+justify-content: space-around;
+padding: 20px ;
+background-color: rgb(209, 202, 202);
+}
+.m1{
+border: 10px solid rgb(249, 247, 247);
+margin: 10px;
+width: 300px;
+color: rgb(216, 41, 170);
+}
+.m1,span{
+text-align:center;
+color: black;
+background-color: rgb(247, 249, 251);
+}
+h3{
+    color: blueviolet;
+}
+.footer{
+    display: flex;
+    margin-top: 20px;
+    padding: 10px;
+}
+.f2{
+  margin-left: 20px;
+}
+.f2 h3{
+    color: black;
+}
+.f4{
+ margin-left: 20px;  
+}
+.f4 h3{
+    margin-left: 10px;
+    color: black;
+}
+button{
+    color: rgb(247, 245, 249);
+    font-weight: bold;
+    background-color: blueviolet;
+    margin-top: 10px;
+}
+
+
+
+
+.header {
+    color: white;
+        background-color: rgb(21, 7, 63);
+    }
+    .menu{
+        
+        display: flex;
+        justify-content: space-between;
+    }
+    .logo{
+        margin-left: 5px;
+        font-size: 25px;
+        padding: 5px;
+    }
+    .side{
+        padding: 5px;
+        
+        display: flex;
+    }
+    .div{
+        margin:10px;
+    }
+    .head{
+        display: flex;
+        margin: 10px;
+    }
+    .text{
+    
+    text-align: justify;
+    width: 50%;
+    margin: 5px;
+    }.img{
+        margin: 5px;
+        width: 50%;
+        background-image: url(pic/img1.jpg);
+        
+        background-size: cover;
+        padding-left: 20px;
+        
+    }
+    button{
+        background-color: rgb(23, 125, 209);
+        color: white;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+    .m1{
+    
+        font-family: Algerian;
+        text-align: center;
+    }
+    .m2{
+        display: flex;
+        height: 300px;
+    }
+    .middleleft{
+        background-image: url(pic/elon.jpg);
+        background-repeat: no-repeat;
+       
+       margin-left: 100px;
+        width: 48%;
+       
+    }
+    .middleright{
+        width: 50%;
+        display: flex;
+        flex-wrap: wrap;
+     
+    
+    }
+    .right1{
+        margin: 10px;
+        background-image: url(img/rent1.jpg);
+        width:300px;
+        height: 100px;
+      background-size: cover;
+    }
+    .right2{
+        margin: 10px;
+        background-image: url(img/rent2.jpg);
+        width: 50%;
+    }
+    .right3{
+        margin: 10px;
+        background-image: url(img/rent3.jpg);
+        width: 50%;
+    }
+    .right4{
+        background-image: url(img/rent4.jpg);
+        margin: 10px;
+        width: 50%;
+    }
+    .bottom{
+        display: flex;
+        margin-top: 10px;
+        background-color: rgb(28, 28, 66);
+        color: white;
+    }
+    .bottomleft{
+        margin-left: 10px;
+        width: 1000px;
+    }
+    .bottomright{
+        margin-left: 0px;
+        width: 450px
+    }
+    .footer{
+        display: flex;
+        margin-top: 10px;
+    }
+    .footerleft{
+        width: 50%;
+    margin-left: 50px;
+    }
+    .footright{
+        width: 50%;
+        background-image: url(img/rent2.jpg);
+        background-repeat: no-repeat;
+        margin-left: 300px;
+       
+    }
+    .footerleft h2{
+        color: rgb(11, 171, 234);
+    }
+    
+    
